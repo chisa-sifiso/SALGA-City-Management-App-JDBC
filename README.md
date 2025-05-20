@@ -54,7 +54,7 @@ CREATE TABLE MayorTbl (
 
 <h2>How to Run</h2>
 <ol>
-    <li>Clone the repository: <code>git clone https://github.com/yourusername/SALGA-City-Management-App.git</code></li>
+    <li>Clone the repository: <code>git clone https://github.com/chisa-sifiso/SALGA-City-Management-App.git</code></li>
     <li>Open the project in your preferred Java IDE (e.g., IntelliJ IDEA, Eclipse).</li>
     <li>Ensure the database connection details (URL, username, password) in the <code>SALGAM</code> class are correctly configured.</li>
     <li>Run the <code>SALGAAPP</code> class as the main entry point of the program.</li>
